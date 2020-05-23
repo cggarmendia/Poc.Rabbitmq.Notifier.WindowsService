@@ -1,0 +1,1 @@
+# Poc.Rabbitmq.Notifier.WindowsService
